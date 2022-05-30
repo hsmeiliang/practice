@@ -1,0 +1,7 @@
+C:\Users\test\Desktop\practice\c#練習\210217\008_structure\bin\Debug\008_structure.exe.config
+C:\Users\test\Desktop\practice\c#練習\210217\008_structure\bin\Debug\008_structure.exe
+C:\Users\test\Desktop\practice\c#練習\210217\008_structure\bin\Debug\008_structure.pdb
+C:\Users\test\Desktop\practice\c#練習\210217\008_structure\obj\Debug\008_structure.csprojAssemblyReference.cache
+C:\Users\test\Desktop\practice\c#練習\210217\008_structure\obj\Debug\008_structure.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\practice\c#練習\210217\008_structure\obj\Debug\008_structure.exe
+C:\Users\test\Desktop\practice\c#練習\210217\008_structure\obj\Debug\008_structure.pdb

@@ -1,0 +1,7 @@
+C:\Users\test\Desktop\practice\c#練習\210217\006_practice\bin\Debug\006_practice.exe.config
+C:\Users\test\Desktop\practice\c#練習\210217\006_practice\bin\Debug\006_practice.exe
+C:\Users\test\Desktop\practice\c#練習\210217\006_practice\bin\Debug\006_practice.pdb
+C:\Users\test\Desktop\practice\c#練習\210217\006_practice\obj\Debug\006_practice.csprojAssemblyReference.cache
+C:\Users\test\Desktop\practice\c#練習\210217\006_practice\obj\Debug\006_practice.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\practice\c#練習\210217\006_practice\obj\Debug\006_practice.exe
+C:\Users\test\Desktop\practice\c#練習\210217\006_practice\obj\Debug\006_practice.pdb

@@ -1,0 +1,7 @@
+C:\Users\test\Desktop\practice\c#練習\210217\009_array\bin\Debug\009_array.exe.config
+C:\Users\test\Desktop\practice\c#練習\210217\009_array\bin\Debug\009_array.exe
+C:\Users\test\Desktop\practice\c#練習\210217\009_array\bin\Debug\009_array.pdb
+C:\Users\test\Desktop\practice\c#練習\210217\009_array\obj\Debug\009_array.csprojAssemblyReference.cache
+C:\Users\test\Desktop\practice\c#練習\210217\009_array\obj\Debug\009_array.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\practice\c#練習\210217\009_array\obj\Debug\009_array.exe
+C:\Users\test\Desktop\practice\c#練習\210217\009_array\obj\Debug\009_array.pdb

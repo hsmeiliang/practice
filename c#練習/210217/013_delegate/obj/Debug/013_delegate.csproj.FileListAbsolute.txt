@@ -1,0 +1,6 @@
+C:\Users\test\Desktop\practice\c#練習\210217\013_delegate\bin\Debug\013_delegate.exe.config
+C:\Users\test\Desktop\practice\c#練習\210217\013_delegate\bin\Debug\013_delegate.exe
+C:\Users\test\Desktop\practice\c#練習\210217\013_delegate\bin\Debug\013_delegate.pdb
+C:\Users\test\Desktop\practice\c#練習\210217\013_delegate\obj\Debug\013_delegate.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\practice\c#練習\210217\013_delegate\obj\Debug\013_delegate.exe
+C:\Users\test\Desktop\practice\c#練習\210217\013_delegate\obj\Debug\013_delegate.pdb

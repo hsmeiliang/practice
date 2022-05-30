@@ -1,0 +1,7 @@
+C:\Users\test\Desktop\practice\c#練習\210217\005_IfWhileFor\bin\Debug\005_IfWhileFor.exe.config
+C:\Users\test\Desktop\practice\c#練習\210217\005_IfWhileFor\bin\Debug\005_IfWhileFor.exe
+C:\Users\test\Desktop\practice\c#練習\210217\005_IfWhileFor\bin\Debug\005_IfWhileFor.pdb
+C:\Users\test\Desktop\practice\c#練習\210217\005_IfWhileFor\obj\Debug\005_IfWhileFor.csprojAssemblyReference.cache
+C:\Users\test\Desktop\practice\c#練習\210217\005_IfWhileFor\obj\Debug\005_IfWhileFor.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\practice\c#練習\210217\005_IfWhileFor\obj\Debug\005_IfWhileFor.exe
+C:\Users\test\Desktop\practice\c#練習\210217\005_IfWhileFor\obj\Debug\005_IfWhileFor.pdb

@@ -1,0 +1,7 @@
+C:\Users\test\Desktop\practice\c#練習\210217\004_ReadWrite\bin\Debug\004_ReadWrite.exe.config
+C:\Users\test\Desktop\practice\c#練習\210217\004_ReadWrite\bin\Debug\004_ReadWrite.exe
+C:\Users\test\Desktop\practice\c#練習\210217\004_ReadWrite\bin\Debug\004_ReadWrite.pdb
+C:\Users\test\Desktop\practice\c#練習\210217\004_ReadWrite\obj\Debug\004_ReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\practice\c#練習\210217\004_ReadWrite\obj\Debug\004_ReadWrite.exe
+C:\Users\test\Desktop\practice\c#練習\210217\004_ReadWrite\obj\Debug\004_ReadWrite.pdb
+C:\Users\test\Desktop\practice\c#練習\210217\004_ReadWrite\obj\Debug\004_ReadWrite.csprojAssemblyReference.cache

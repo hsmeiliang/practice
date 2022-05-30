@@ -1,0 +1,7 @@
+C:\Users\test\Desktop\practice\c#練習\210217\011_function\obj\Debug\011_function.csprojAssemblyReference.cache
+C:\Users\test\Desktop\practice\c#練習\210217\011_function\obj\Debug\011_function.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\practice\c#練習\210217\011_function\bin\Debug\011_function.exe.config
+C:\Users\test\Desktop\practice\c#練習\210217\011_function\bin\Debug\011_function.exe
+C:\Users\test\Desktop\practice\c#練習\210217\011_function\bin\Debug\011_function.pdb
+C:\Users\test\Desktop\practice\c#練習\210217\011_function\obj\Debug\011_function.exe
+C:\Users\test\Desktop\practice\c#練習\210217\011_function\obj\Debug\011_function.pdb

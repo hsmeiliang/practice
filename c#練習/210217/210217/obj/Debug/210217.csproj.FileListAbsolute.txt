@@ -1,0 +1,7 @@
+C:\Users\test\Desktop\practice\c#練習\210217\210217\bin\Debug\210217.exe.config
+C:\Users\test\Desktop\practice\c#練習\210217\210217\bin\Debug\210217.exe
+C:\Users\test\Desktop\practice\c#練習\210217\210217\bin\Debug\210217.pdb
+C:\Users\test\Desktop\practice\c#練習\210217\210217\obj\Debug\210217.csprojAssemblyReference.cache
+C:\Users\test\Desktop\practice\c#練習\210217\210217\obj\Debug\210217.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\practice\c#練習\210217\210217\obj\Debug\210217.exe
+C:\Users\test\Desktop\practice\c#練習\210217\210217\obj\Debug\210217.pdb
